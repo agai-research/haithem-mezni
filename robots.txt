@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agai-research.github.io/haithem-mezni/sitemap.xml

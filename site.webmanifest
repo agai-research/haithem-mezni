@@ -1,0 +1,15 @@
+{
+ "name": "Haithem Mezni",
+ "short_name": "H. Mezni",
+ "start_url": "./",
+ "display": "browser",
+ "background_color": "#F6F4F3",
+ "theme_color": "#6E1A37",
+ "icons": [
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
